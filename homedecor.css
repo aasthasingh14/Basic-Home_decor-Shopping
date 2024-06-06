@@ -1,0 +1,73 @@
+#main{
+    width: 1250px;
+    height: 400px;
+    background-color: rgb(253, 218, 242);
+}
+#first{
+    width: 550px;
+    height: 300px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 60px; 
+    border: 2px solid black;
+    background-color: azure;
+}
+#second{
+    width: 550px;
+    height: 300px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 60px; 
+    border: 2px solid black;
+    background-color: azure;
+}
+#image_hd{
+    width: 250px;
+    height: 250px;
+    margin-top: 25px;
+    margin-left: 25px;
+    float: left; 
+    border: 1px solid black;
+}
+#img_hd{
+    width: 250px;
+    height: 250px;
+}
+#portion{
+    width: 250px;
+    height: 250px;
+    float: right;
+    margin-right: 0px;
+    margin-top: 25px;  
+}
+#pro_name{
+    width: 200px;
+    height: 30px; 
+    margin-left: 25px;
+    margin-top: 15px;
+    font-size: x-large;
+    font-weight: 600;
+}
+#comp_name{
+    width: 150px;
+    height: 20px; 
+    margin-left: 25px;
+    margin-top: 15px;
+    font-size: small;
+    font-weight: 200;
+}
+#mrp{
+    width: 150px;
+    height: 35px; 
+    margin-left: 25px;
+    margin-top: 20px;
+    font-size: large;
+    font-weight: 600;
+}
+#cart_fav{
+    width: 100px;
+    height: 40px; 
+    margin-left: 25px;
+    margin-top: 55px;
+    font-size: x-large;
+}
